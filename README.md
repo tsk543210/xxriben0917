@@ -18,4 +18,4 @@
 
 另外，很多平台还会为用户提供个性化推荐服务，根据用户的观看历史，推荐更多符合口味的影片。这样，用户不仅可以发现新影片，还能享受更为丰富的观看体验。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/tsk543210/xxriben0917 )</span>
